@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FRANCAIS 1ère BAC</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4a90e2;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 30px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    footer {
+      background-color: #4a90e2;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Cours de Français - 1ère Année Baccalauréat</h1>
+    <p>Bienvenue sur le site d'apprentissage du français</p>
+  </header>
+
+  <nav>
+    <a href="#">Accueil</a>
+    <a href="#">Cours</a>
+    <a href="#">Exercices</a>
+    <a href="#">Vidéos</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>📘 Objectif du site</h2>
+      <p>Ce site est destiné aux élèves de la 1ère année du baccalauréat pour les aider à réussir en français : cours, fiches, exercices corrigés et ressources utiles.</p>
+    </section>
+
+    <section>
+      <h2>📚 Leçons à la une</h2>
+      <ul>
+        <li><strong>Antigone de Jean Anouilh</strong> – Résumé et analyse</li>
+        <li><strong>La Boîte à merveilles</strong> – Lecture et fiche de personnage</li>
+        <li><strong>Les figures de style</strong> – Explication simple</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>📝 Nouveaux exercices</h2>
+      <p><a href="#">Exercice de rédaction argumentée</a></p>
+      <p><a href="#">Dictée sur les valeurs du passé</a></p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 - Site éducatif Français 1BAC | Réalisé par [Ton Nom]
+  </footer>
+
+</body>
+</html>
